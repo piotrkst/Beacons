@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Beacons</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">Jesteś gotowy do rozwiązywania pierwszej zagadki, o wszelkim progresie będziesz informowany na bieżąco</string>
+    <string name="levelOne"></string>
+    <string name="levelTwo"></string>
+    <string name="levelThree"></string>
+    <string name="levelFour"></string>
+</resources>
